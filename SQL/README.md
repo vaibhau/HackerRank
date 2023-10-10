@@ -1,3 +1,3 @@
 # SQL
 
-SQL skill test certifications
+SQL skill test certifications & problems
